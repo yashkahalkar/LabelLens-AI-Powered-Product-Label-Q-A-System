@@ -1,5 +1,9 @@
 # LabelLens-AI-Powered-Product-Label-Q-A-System
 An intelligent Q&A assistant that lets you "talk" to your product labels. Simply upload an image of any product package, and ask questions like "How much sugar is in this?" or "Does this contain nuts?" to get instant, accurate answers.
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green.svg)](https://labellens-ai-powered-appuct-label-q-a-system-3ezf2yl2taf9qw4hw.streamlit.app/) 
+
+
 ## About The Project
 This project addresses the common challenge of quickly extracting specific information from dense and often confusing product labels. LabelLens leverages a modern AI stack, combining Optical Character Recognition (OCR) with a Retrieval-Augmented Generation (RAG) pipeline to provide a seamless, conversational experience for the user.
 
@@ -12,6 +16,9 @@ This project addresses the common challenge of quickly extracting specific infor
 * 💬 Conversational Q&A: Ask questions in natural language and get answers based only on the information present on the label, powered by a Google Gemini RAG system.
 
 * ⚡ Fast & Efficient: Leverages a Pinecone vector database for rapid semantic search, providing answers in seconds.
+
+## Screenshots
+![My Image](https://drive.google.com/uc?export=view&id=1184PzOu3j7Yms90i0Oqmr2zGwh-cEgyb)
 
 ## How It Works (Architecture)
 The application follows an end-to-end pipeline from image input to text output:
