@@ -1,0 +1,11 @@
+streamlit
+opencv-python-headless
+easyocr
+langchain
+langchain-google-genai
+pinecone
+langchain-pinecone
+numpy
+torch
+torchvision
+asyncio
